@@ -1,2 +1,2 @@
-# prueba-primer-repositorio
-prueba creacion repositorio en github
+JprRodriguez
+prueba primer commit github
